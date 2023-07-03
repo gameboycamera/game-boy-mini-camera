@@ -1,6 +1,8 @@
 # Game Boy Mini Camera
 The Game Boy Mini Camera is a Game Boy Camera cart redesigned into the size of a typical Game Boy Cart.
 
+Additional details coming soon.
+
 ## Features
 * Based on [HDR's Game Boy Camera flash cart](https://github.com/HDR/Gameboy-Camera-Flashcart) schematic
   * Flashable with stock or custom ROMs
