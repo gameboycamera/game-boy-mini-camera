@@ -20,7 +20,7 @@ The Game Boy Mini Camera is a Game Boy Camera cart redesigned into the size of a
 | - | - |
 | Game Boy Camera (any version) | ??? |
 | Mini Camera PCB | PCBWay (soon) |
-| build components | list |
+| build components | [list](https://github.com/gameboycamera/game-boy-mini-camera/tree/main#components) |
 | shell (5 parts} | Shapeways / download (soon) | 
 | iPhone XR lens array | Aliexpress |
 | iPhone XR lens cover | Aliexpress |
