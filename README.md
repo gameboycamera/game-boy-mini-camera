@@ -20,15 +20,15 @@ Additional details coming soon.
 ## Materials
 | Item | Link |
 | - | - |
-| Game Boy Camera (any version) | ??? |
+| Game Boy Camera (any version | ??? |
 | Mini Camera PCB | PCBWay (soon) |
 | build components | [list](https://github.com/gameboycamera/game-boy-mini-camera/tree/main#components) |
 | shell (5 parts) | Shapeways / download (soon) | 
-| iPhone XR lens array | Aliexpress |
-| iPhone XR lens cover | Aliexpress |
-| x2 M1x5mm screws | Aliexpress |
-| x4 M1x3mm screws | Aliexpress |
-| x6 M1x2x2 brass inserts | Aliexpress |
+| iPhone XR/XS X1 lens array | [Aliexpress](https://www.aliexpress.com/item/3256803144047672.html) |
+| iPhone XR lens cover | [Aliexpress](https://www.aliexpress.com/item/2251832829209044.html) |
+| x2 M1x5mm screws | [Aliexpress](https://www.aliexpress.com/item/3256803019262480.html) |
+| x4 M1x3mm screws | [Aliexpress](https://www.aliexpress.com/item/3256803019262480.html) |
+| x6 M1.0x2x2 brass inserts | [Aliexpress](https://www.aliexpress.com/item/3256804533755184.html) |
 | label sticker (optional) | Ally Thunderhill / included in shell download (soon) |
 
 ## Components
