@@ -17,13 +17,15 @@ The Game Boy Mini Camera is a Game Boy Camera cart redesigned into the size of a
 ## Disclaimer
 **WARNING: This is a difficult mod and requires advanced soldering skills & tools** due to the fine pitch of donor components and easily damagable resin sensor. I am not responsible for any harm done to you, your property, or family. Because of the complication required for this mod, personal support will be limited. Order any parts at your own risk! Please review the license before attempting.
 
+Researching options for sellable units - stay tuned.
+
 ## Materials
 | Item | Link |
 | - | - |
 | Game Boy Camera (any version | ??? |
 | Mini Camera PCB | PCBWay (soon) |
 | build components | [list](https://github.com/gameboycamera/game-boy-mini-camera/tree/main#components) |
-| shell (5 parts) | Shapeways / download (soon) | 
+| shell (5 parts) | Shapeways / PCBWay / download (soon) | 
 | iPhone XR/XS X1 lens array | [Aliexpress](https://www.aliexpress.com/item/3256803144047672.html) |
 | iPhone XR lens cover | [Aliexpress](https://www.aliexpress.com/item/2251832829209044.html) |
 | x2 M1x5mm screws | [Aliexpress](https://www.aliexpress.com/item/3256803019262480.html) |
