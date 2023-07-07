@@ -38,9 +38,9 @@ The Game Boy Mini Camera is a Game Boy Camera cart redesigned into the size of a
 | C2, C3, C4, C12, C13 | [TCC0603X7R104J500CT](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0603X7R104J500CT_C282518.html) | 100nF 0603 capacitor |
 | C5, C6, C7, C8, C9, C10, C11 | [CC0402KRX7R7BB104](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX7R7BB104_C60474.html) | 100nF 0402 capacitor |
 | C14, C15 | [CC0603JRNPO9BN220](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603JRNPO9BN220_C105620.html) | 22pF 0603 capacitor |
-| C16, C17 | Harvest C1 & C2 from original sensor board | (0.15uF?) 0603 capacitor |
+| C16, C17 | Harvest C1 & C2 from original sensor board | 0603 capacitor |
 | D1 | Harvest D2 from original cartridge | diode |
-| L1 | Harvest L1 from original sensor board | ferrite bead |
+| L1 | Harvest L1 from original sensor board | 1210 inductor |
 | R1 | [RC0603JR-071KL](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603JR-071KL_C14676.html) | 1K Ω 0603 Resistor |
 | SW1 | [K3-1296S-E1](https://www.lcsc.com/product-detail/Slide-Switches_Korean-Hroparts-Elec-K3-1296S-E1_C128955.html)| SPDT Switch (For 2x1MB Rom Switching) |
 | U1 | MAC-GBD | Harvest U1 from original cartridge |
